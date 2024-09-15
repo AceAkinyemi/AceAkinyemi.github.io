@@ -1,0 +1,28 @@
+body{
+    margin: 100px;
+}
+
+#logo {
+    font-family: "Bebas Neue", sans-serif;
+    background-color: rgba(185, 0, 0, 0.736);
+    margin: 0px 0px;
+    color: cornsilk;
+}
+
+ul{
+    margin: 0px;
+}
+
+body > header > nav > ul{
+    list-style: none;
+    text-decoration: none;
+}
+.navbutton {
+    font-family: "Bricolage Grotesque", sans-serif;
+        background-color: rgba(185, 0, 0, 0.736);
+    margin: 0px 0px;
+    color: cornsilk;
+}
+
+body > footer{
+}
