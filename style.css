@@ -1,16 +1,12 @@
-body{
-    margin: 100px;
+body > main > article{
+    width: 90%;
+    margin: auto;
 }
-
 #logo {
     font-family: "Bebas Neue", sans-serif;
     background-color: rgba(185, 0, 0, 0.736);
     margin: 0px 0px;
     color: cornsilk;
-}
-
-ul{
-    margin: 0px;
 }
 
 body > header > nav > ul{
@@ -19,10 +15,20 @@ body > header > nav > ul{
 }
 .navbutton {
     font-family: "Bricolage Grotesque", sans-serif;
-        background-color: rgba(185, 0, 0, 0.736);
     margin: 0px 0px;
-    color: cornsilk;
+    color: rgba(185, 0, 0, 0.736)
+}
+h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+
+body > header{
+    background-color: cornsilk
 }
 
 body > footer{
+    background-color: cornsilk
 }
